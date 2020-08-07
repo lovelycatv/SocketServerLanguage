@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">MinecraftServerX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="activity_guide_title_welcome">Welcome to MinecraftServerX</string>
+    <string name="minecraftserver_manager">MinecraftServer\nManager</string>
+    <string name="guide_page1_text">It seems that you are using it for the first time.\nLet me take you through some important configuration first\n\nslide to the next page</string>
+    <string name="guide_page2_et_servername">Server Name</string>
+    <string name="guide_page2_et_serverip">Server IP</string>
+    <string name="guide_page2_et_serverport">Port</string>
+    <string name="guide_page2_et_socketip">SocketIP</string>
+    <string name="guide_page2_et_socketport">Port</string>
+    <string name="guide_page2_text_addserver">Add Server</string>
+    <string name="guide_page2_text_addserver_sub">Before you start, you need to add a server. After that, slide to the next page to continue</string>
+    <string name="guide_page2_btn_addserver">Add New Server</string>
+    <string name="guide_page3_text_title">Get Ready</string>
+    <string name="guide_page3_text_titlesub">Now that you have finished all the configuration, get ready to go</string>
+    <string name="guide_page3_btn_start">Start</string>
+    <string name="guide_page2_text_addnerserver">Add New Server</string>
+
+    <string name="guide_noitem_err">Please add a server first!</string>
+
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">Cancel</string>
+    <string name="dialog_btn_yes">YES</string>
+    <string name="dialog_btn_no">NO</string>
+    <string name="dialog_btn_finish">Finish</string>
+    <string name="dialog_btn_del">Delete</string>
+    <string name="dialog_btn_enable">Enable</string>
+    <string name="dialog_btn_disbale">Disable</string>
+
+    <string name="ac_serverslist_dialog_add_title">Add New Server</string>
+    <string name="ac_serverslist_dialog_update_title">Change</string>
+    <string name="menu_server">Servers</string>
+    <string name="menu_changeserver">Change Server</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="fm_home_isServerRunningY">Enabled</string>
+    <string name="fm_home_isServerRunningN">Disabled</string>
+    <string name="fm_home_isSocketRunningY">Enabled</string>
+    <string name="fm_home_isSocketRunningN">Disabled</string>
+
+    <string name="data_getting">Getting…</string>
+    <string name="fm_players_title">OnlinePlayer List</string>
+
+    <string name="ac_playerdetails_name">Name</string>
+    <string name="ac_playerdetails_uuid">UUID</string>
+    <string name="ac_playerdetails_isOnlinemode">isCertified</string>
+    <string name="ac_playerdetails_hp">Health</string>
+    <string name="ac_playerdetails_world">World</string>
+    <string name="ac_playerdetails_admin">Admin</string>
+    <string name="ac_playerdetails_lvl">Level</string>
+    <string name="ac_playerdetails_gamemode">Gamemodoe</string>
+    <string name="ac_playerdetails_change">Change</string>
+    <string name="ac_playerdetails_kill">Kill</string>
+    <string name="ac_playerdetails_kick">KickPlayer</string>
+    <string name="ac_playerdetails_reason">Reason</string>
+    <string name="ac_playerdetails_submit">Submit</string>
+    <string name="ac_playerdetails_sendMsg">Send Message</string>
+    <string name="ac_playerdetails_msg">Message</string>
+    <string name="ac_playerdetails_publicChat">Public Chat</string>
+    <string name="ac_playerdetails_setExp">Set Exp Point</string>
+    <string name="ac_playerdetails_value">Vallue</string>
+    <string name="ac_playerdetails_setLvL">Set Level</string>
+    <string name="ac_playerdetails_giveExp">Give Exp</string>
+    <string name="ac_playerdetails_giveLvL">Give Level</string>
+
+    <string name="fm_advance_tab_console">Console</string>
+    <string name="fm_advance_tab_chat">Chat</string>
+    <string name="fm_advance_tab_plugins">Plugins</string>
+    <string name="fm_advance_tab_vault">Vault</string>
+    <string name="fm_advance_tab_mysqllogin">MysqlLogin</string>
+    <string name="fm_advance_tab_banlist">BanList</string>
+
+    <string name="fm_advance_tab_chat_send">Send</string>
+    <string name="fm_home_serversts">Server Status</string>
+    <string name="fm_home_socketsts">Socket Status</string>
+    <string name="fm_home_serverversion">Server Version</string>
+    <string name="fm_home_onlines">Onlines</string>
+    <string name="fm_home_memory">Memory Usage</string>
+    <string name="fm_home_tps">TPS</string>
+    <string name="fm_advance_chat_chooseplayer">Choose Player</string>
+
+    <string name="nav_bottom_advance">Advance</string>
+    <string name="nav_bottom_players">Player</string>
+    <string name="nav_bottom_general">General</string>
+    <string name="nav_languages">Languages</string>
+
+    <string name="dialog_plugin_enable">Do you want to enable plugin %s</string>
+    <string name="dialog_plugin_disable">Do you want to disable plugin %s</string>
+    <string name="fm_advance_plugins_title">Plgins List</string>
+    <string name="fm_advance_plugins_warn_disableSocketServer">You are shutting down the socketserver. If you do, you cannot use the app to control the server, unless you manually reload the server to restart the socketserver. Are you sure you want to disable it?</string>
+    <string name="fm_advance_vault_giveMoney">Give Money</string>
+    <string name="fm_advance_vault_takeMoney">Take Money</string>
+    <string name="fm_advance_vault_tip">Select the object to operate on</string>
+    <string name="menu_author">LovelyCat</string>
+    <string name="menu_author_mail163">lovelycatex@163.com</string>
+    <string name="menu_author_mailGmail">pjrbuyvi@gameil.com</string>
+    <string name="menu_author_title">Author</string>
+
+    <string name="toast_chat_disabled">Chat Statistics is disabled!</string>
+    <string name="menu_plugin">Plugin Downloaod</string>
+    <string name="menu_update">Update</string>
+    <string name="fm_home_version">APP Version</string>
+    <string name="text_click_to_update">Clike Me To Download New Version</string>
+
+    <string name="dialog_banplayer_unban">Do you want to unban player %s</string>
+    <string name="dialog_banplayer_ban">Do you want to ban player %s</string>
+    <string name="rvitem_banplayer_reason">Reason:</string>
+    <string name="rvitem_banplayer_expirs">Expirs:</string>
+    <string name="rvitem_banplayer_noreason">NO Reason</string>
+    <string name="rvitem_banplayer_forever">Forever</string>
+    <string name="ac_playerdetails_ban">Ban</string>
+    <string name="ac_playerdetails_setHealth">SetHealth</string>
+</resources>
