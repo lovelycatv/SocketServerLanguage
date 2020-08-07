@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinecraftServerX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">设置</string>
+
+    <string name="activity_guide_title_welcome">欢迎来到 MinecraftServerManager</string>
+    <string name="minecraftserver_manager">MinecraftServer\nManager</string>
+    <string name="guide_page1_text">看起来，你是第一次使用呢\n让我先带你完成一些重要的配置吧\n\n滑动进入下一页</string>
+    <string name="guide_page2_et_servername">服务器名称</string>
+    <string name="guide_page2_et_serverip">服务器IP</string>
+    <string name="guide_page2_et_serverport">端口</string>
+    <string name="guide_page2_et_socketip">SocketIP</string>
+    <string name="guide_page2_et_socketport">端口</string>
+    <string name="guide_page2_text_addserver">添加服务器</string>
+    <string name="guide_page2_text_addserver_sub">开始之前 你需要先添加服务器 添加好了后 滑动到下一页继续</string>
+    <string name="guide_page2_btn_addserver">添加新服务器</string>
+    <string name="guide_page3_text_title">准备就绪</string>
+    <string name="guide_page3_text_titlesub">现在 你已经完成了所有的配置 准备开始吧</string>
+    <string name="guide_page3_btn_start">开始体验</string>
+    <string name="guide_page2_text_addnerserver">添加服务器</string>
+
+    <string name="guide_noitem_err">请先添加一个服务器!</string>
+
+    <string name="dialog_btn_ok">好</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_yes">是</string>
+    <string name="dialog_btn_no">否</string>
+    <string name="dialog_btn_finish">完成</string>
+    <string name="dialog_btn_del">删除</string>
+    <string name="dialog_btn_enable">启用</string>
+    <string name="dialog_btn_disbale">卸载</string>
+
+    <string name="ac_serverslist_dialog_add_title">添加新服务器</string>
+    <string name="ac_serverslist_dialog_update_title">修改</string>
+    <string name="menu_server">服务器</string>
+    <string name="menu_changeserver">切换服务器</string>
+    <string name="menu_settings">设置</string>
+
+    <string name="fm_home_isServerRunningY">运行中</string>
+    <string name="fm_home_isServerRunningN">已关闭</string>
+    <string name="fm_home_isSocketRunningY">运行中</string>
+    <string name="fm_home_isSocketRunningN">已关闭</string>
+
+    <string name="data_getting">获取中…</string>
+    <string name="fm_players_title">玩家列表</string>
+
+    <string name="ac_playerdetails_name">名称</string>
+    <string name="ac_playerdetails_uuid">UUID</string>
+    <string name="ac_playerdetails_isOnlinemode">是否通过正版验证</string>
+    <string name="ac_playerdetails_hp">血量</string>
+    <string name="ac_playerdetails_world">所在世界</string>
+    <string name="ac_playerdetails_admin">管理员</string>
+    <string name="ac_playerdetails_lvl">经验等级</string>
+    <string name="ac_playerdetails_gamemode">游戏模式</string>
+    <string name="ac_playerdetails_change">更改</string>
+    <string name="ac_playerdetails_kill">Kill</string>
+    <string name="ac_playerdetails_kick">踢出玩家</string>
+    <string name="ac_playerdetails_reason">原因</string>
+    <string name="ac_playerdetails_submit">执行</string>
+    <string name="ac_playerdetails_sendMsg">发送信息</string>
+    <string name="ac_playerdetails_msg">信息</string>
+    <string name="ac_playerdetails_publicChat">公屏聊天</string>
+    <string name="ac_playerdetails_setExp">设置经验值</string>
+    <string name="ac_playerdetails_value">数值</string>
+    <string name="ac_playerdetails_setLvL">设置等级</string>
+    <string name="ac_playerdetails_giveExp">给予经验值</string>
+    <string name="ac_playerdetails_giveLvL">给予等级</string>
+
+    <string name="fm_advance_tab_console">控制台</string>
+    <string name="fm_advance_tab_chat">聊天</string>
+    <string name="fm_advance_tab_plugins">插件</string>
+    <string name="fm_advance_tab_vault">Vault</string>
+    <string name="fm_advance_tab_mysqllogin">MysqlLogin</string>
+    <string name="fm_advance_tab_banlist">封禁列表</string>
+
+    <string name="fm_advance_tab_chat_send">发送</string>
+    <string name="fm_home_serversts">服务器状态</string>
+    <string name="fm_home_socketsts">Socket状态</string>
+    <string name="fm_home_serverversion">服务器版本</string>
+    <string name="fm_home_onlines">在线人数</string>
+    <string name="fm_home_memory">内存占用</string>
+    <string name="fm_home_tps">TPS</string>
+    <string name="fm_advance_chat_chooseplayer">选择玩家</string>
+
+    <string name="nav_bottom_advance">高级</string>
+    <string name="nav_bottom_players">玩家</string>
+    <string name="nav_bottom_general">概况</string>
+    <string name="nav_languages">语言</string>
+
+    <string name="dialog_plugin_enable">是否启用插件 %s</string>
+    <string name="dialog_plugin_disable">是否卸载插件 %s</string>
+    <string name="fm_advance_plugins_title">已安装插件列表</string>
+    <string name="fm_advance_plugins_warn_disableSocketServer">你正在关闭SocketServer，若关闭，则无法继续使用该APP控制服务器，必须手动重载服务器以重新开启SocketServer，你确定要继续？</string>
+    <string name="fm_advance_vault_giveMoney">给予金钱</string>
+    <string name="fm_advance_vault_takeMoney">扣除金钱</string>
+    <string name="fm_advance_vault_tip">选择要进行操作的对象</string>
+    <string name="menu_author">LovelyCat</string>
+    <string name="menu_author_mail163">lovelycatex@163.com</string>
+    <string name="menu_author_mailGmail">pjrbuyvi@gameil.com</string>
+    <string name="menu_author_title">作者</string>
+
+    <string name="toast_chat_disabled">聊天功能已被禁用!</string>
+    <string name="menu_plugin">插件下载</string>
+    <string name="menu_update">更新</string>
+    <string name="fm_home_version">APP版本</string>
+    <string name="text_click_to_update">点我更新</string>
+
+    <string name="dialog_banplayer_unban">是否解除 %s 的封禁</string>
+    <string name="dialog_banplayer_ban">是否封禁玩家 %s</string>
+    <string name="rvitem_banplayer_reason">原因:</string>
+    <string name="rvitem_banplayer_expirs">释放时间:</string>
+    <string name="rvitem_banplayer_noreason">没有原因</string>
+    <string name="rvitem_banplayer_forever">永久封禁</string>
+    <string name="ac_playerdetails_ban">Ban</string>
+    <string name="ac_playerdetails_setHealth">设置生命值</string>
+</resources>
