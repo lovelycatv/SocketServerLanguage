@@ -1,0 +1,35 @@
+Chinese
+language:
+  socket-active: "&a已启用Socket服务!端口:%s"
+  vault-install-failed: "&cVault初始化失败!"
+  socket-running: "&aSocket正在运行!"
+  socket-inactive: "&cSocket已停止运行!"
+  reload: "&a插件成功重载!"
+  help:
+    - "&d===&6===&aSocketServer&6===&d==="
+    - "&b/ss &6查看帮助"
+    - "&b/ss reload &6重载插件"
+    - "&b/ss restart &6重载Socket服务"
+    - "&d===&6===&aSocketServer&6===&d==="
+  no-permission: "&c你没有权限这么做!"
+  exception-msg: "[%s]接收到的数据->%s"
+  upload-chatmsg-failed: "&c同步聊天记录失败!"
+  table-create-failed: "&c数据表创建失败!"
+
+English
+language:
+  socket-active: "&aSocket Enabled!Port:%s"
+  vault-install-failed: "&cVault install failed!"
+  socket-running: "&aSocket is running!"
+  socket-inactive: "&cSocket is inactive!"
+  reload: "&aPlugin reload successfully!"
+  help:
+    - "&d===&6===&aSocketServer&6===&d==="
+    - "&b/ss &6Get Help"
+    - "&b/ss reload &6Reload Plugin"
+    - "&b/ss restart &6Restart Socket Service"
+    - "&d===&6===&aSocketServer&6===&d==="
+  no-permission: "&cYou don't have permission to do that!"
+  exception-msg: "[%s]Data received->%s"
+  upload-chatmsg-failed: "&cFailed to upload chat record!"
+  table-create-failed: "&cData table creation failed!"
